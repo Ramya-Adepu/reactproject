@@ -1,0 +1,127 @@
+td{
+    background-color:#fff;
+    height:40px;
+    width:40px;
+    border-radius:50%;
+    border:1px solid #000;
+    color:#fff;
+    padding:8px;
+  }
+
+
+table{
+    border:solid 3px   #000;
+    margin:20px;
+    background-color: #000;
+    margin-left: 80px;
+}
+/* .outline{
+  margin-left: 300px;
+} */
+
+/* .turn{
+  background: lightblue;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+
+} */
+#player{
+  border-radius:50% ;
+  color:#000;
+  margin-right:250px;
+}
+
+.selection{
+  float:left;
+  margin-bottom:100px;
+  margin-right: 100px;
+}
+.in1{
+  padding: 10px;
+}
+.in2{
+  padding: 10px;
+}
+
+.green {
+  height: 30px;
+  width: 30px;
+  /* margin-top: 10px; */
+  background-color:lime;
+  border-radius: 50%;
+  display: inline-block;
+}
+.red {
+  height: 30px;
+  width: 30px;
+  background-color:red;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.input1{
+  width:150px;
+  height:30px;
+  /* padding-right:10px; */
+  margin-right: 20px;
+  font-size:18px ;
+}
+.input2{
+  width:150px;
+  height:30px;
+  /* padding-right:10px; */
+  margin-right: 20px;
+  font-size:18px ;
+}
+
+body{
+  background-color: #4f6fc0;
+  ;
+}
+.names{
+  font-size: 50px;
+  font-weight: 100px;
+}
+
+.btnre{
+  /* margin-top: 1.7rem; */
+  border: none;
+  cursor: pointer;
+  display: inline-block;
+  height: 3rem;
+  width: 10rem;
+  color:rgb(5, 4, 15);
+  font-weight: bold;
+  font-size: 1.5rem;
+  text-align:center;
+  margin-left: 45%;
+
+}
+.btnre:hover {
+  text-decoration: none;
+  border: 3px solid #3867d6;
+  background: #d65838;
+ 
+}
+
+#result{
+  font-size: 40px;
+  text-align:center;
+}
+.start1{
+  border: none;
+  cursor: pointer;
+  display: inline-block;
+  height: 2rem;
+  width: 10rem;
+  font-weight: bold;
+  font-size: 1.5rem;
+  text-align:center;
+  margin-left: 28%;
+}
+.start1:hover {
+  text-decoration: none;
+  border: 3px solid #3867d6;
+  background: #d35811;
+}
